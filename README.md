@@ -1,3 +1,3 @@
 <details>
-  <summary>BR Hello, projwto sw software</summary>
+  <summary> Hello, projeto de software</summary>
   # Demo-Projeto-de-software-2025
