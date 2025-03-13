@@ -1,5 +1,5 @@
 <details>
-  <summary> Hello, projeto de software
+  <summary> Hello, projeto de software! - 
    Principal beneficio é planejamento, mapear todo o ciclo de vida do projeto, definir prazos, alocar recursos e responsabilidades. 
  É possível acompanhar o progresso do projeto, identificar gargalos e tomar ações corretivas. 
 Também é possível melhorar a comunicação entre os membros da equipe, criar e manter a documentação do projeto, identificar e gerir os riscos do projeto. 
